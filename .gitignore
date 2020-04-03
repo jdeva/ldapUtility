@@ -1,0 +1,12 @@
+*.class
+
+# IntelliJ
+out/
+*.iml
+.idea
+
+# Maven:
+target
+
+.DS_Store
+.vscode
